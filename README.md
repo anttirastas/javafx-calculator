@@ -11,7 +11,7 @@ and to showcase my Java and JavaFX knowledge to potential employers.
 <h3>Installation</h3>
 
 In order to install and use this calculator app, you will need to have Java Runtime Environment installed on your computer.
-Install this calculator by downloading and executing the Windows executable installer file (.exe).
+Install this calculator by downloading and executing the Windows executable installer file (.exe) in the /dist folder.
 
 
 <h3>Usage</h3>
