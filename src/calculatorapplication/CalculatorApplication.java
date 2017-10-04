@@ -119,7 +119,9 @@ public class CalculatorApplication extends Application {
                         1, true, true, true, true, true, true, true, true, true, true, null));
                     }
                 });
-            }});
+                resultField.positionCaret(resultField.getText().length());
+            }
+        });
 
         
         // ADD EVENTLISTENERS TO BUTTONS ON THE CALCULATOR
