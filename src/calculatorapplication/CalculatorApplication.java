@@ -222,6 +222,8 @@ public class CalculatorApplication extends Application {
                     
                     resultField.setText(resultField.getText() + button.getId());
                 }
+                resultField.requestFocus();
+                resultField.positionCaret(resultField.getText().length());
             });
         });
         
